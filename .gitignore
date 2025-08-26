@@ -95,3 +95,7 @@ monitoring/dashboards/cache/
 tmp/
 temp/
 *.tmp
+
+.env
+.env.local
+.env.*.local
